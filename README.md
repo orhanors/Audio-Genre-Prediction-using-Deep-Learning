@@ -1,4 +1,4 @@
-# Audio Genre Prediction using Deep Learning
+# Music Genre Prediction using Deep Learning
 
 This project explains how to predict music genre using CNN deep learning architecture.
 
