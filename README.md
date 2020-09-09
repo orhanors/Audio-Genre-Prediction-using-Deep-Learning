@@ -5,6 +5,10 @@ This project explains how to predict music genre using CNN deep learning archite
 Please read this [PAPER](https://github.com/orhanors/Audio-Genre-Prediction-using-Deep-Learning/blob/master/Audio-Genre-Classification/Paper.pdf) to learn details under project structure
 
 ## Requirements
-* **tensorflow** - 2.3.0
-* numpy
-* scikitlearn
+
+|Package|Used For|
+|---|---|
+|[Tensorflow](https://github.com/cython/cython) | CNN architecture using keras module __ package.|
+|[Numpy](https://github.com/numpy/numpy)|Handling audio data.|
+|[scikitlearn](https://github.com/scikit-learn/scikit-learn)|Python wrapper for rubberband, a perfectly capable time stretcher & pitch shifter.|
+|[librosa](https://github.com/librosa/librosa)|Audio data analysis.|
