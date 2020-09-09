@@ -1,2 +1,5 @@
-# Audio-Genre-Prediction-using-Deep-Learning
-Music genre prediction using tensorflow CNN architecture. Aslo includes Paper
+# Audio Genre Prediction using Deep Learning
+
+This project explains how to predict music genre using CNN deep learning architecture.
+
+Please read this[PAPER](https://github.com/orhanors/Audio-Genre-Prediction-using-Deep-Learning/blob/master/Audio-Genre-Classification/Paper.pdf) to learn details under project structure
