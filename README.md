@@ -8,7 +8,7 @@ Please read this [PAPER](https://github.com/orhanors/Audio-Genre-Prediction-usin
 
 |Package|Used For|
 |---|---|
-|[Tensorflow](https://github.com/cython/cython) | CNN architecture using keras module __ package.|
+|[Tensorflow](https://github.com/cython/cython) | CNN architecture using _keras_ module.|
 |[Numpy](https://github.com/numpy/numpy)|Handling audio data.|
 |[scikitlearn](https://github.com/scikit-learn/scikit-learn)|Python wrapper for rubberband, a perfectly capable time stretcher & pitch shifter.|
 |[librosa](https://github.com/librosa/librosa)|Audio data analysis.|
